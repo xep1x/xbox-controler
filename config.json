@@ -1,0 +1,34 @@
+{
+    "mouse": {
+        "sensitivity": 5.0,
+        "acceleration_curve": 2.5,
+        "update_rate_hz": 199
+    },
+    "deadzones": {
+        "left_stick": 0.15,
+        "right_stick": 0.15,
+        "triggers": 0.1
+    },
+    "scroll": {
+        "speed": 1.0,
+        "acceleration_curve": 1.5
+    },
+    "bindings": {
+        "A": "mouse_left",
+        "B": "mouse_right",
+        "X": "osk",
+        "Y": "enter",
+        "LB": "browser_back",
+        "RB": "browser_forward",
+        "LT": "zoom_out",
+        "RT": "zoom_in",
+        "DPAD_UP": "volume_up",
+        "DPAD_DOWN": "volume_down",
+        "DPAD_LEFT": "media_prev",
+        "DPAD_RIGHT": "media_next",
+        "START": "media_play_pause",
+        "BACK": "win_d",
+        "L3": "mouse_middle",
+        "R3": "close_tab"
+    }
+}
